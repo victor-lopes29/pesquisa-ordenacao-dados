@@ -1,0 +1,273 @@
+# depslib dependency file v1.0
+1535135715 source:c:\users\pc\desktop\tarefas sorts\geradordearquivos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1535135715 source:c:\users\pc\desktop\tarefas sorts\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1535135715 source:c:\users\pc\desktop\tarefas sorts\bubblesort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1535135715 source:c:\users\pc\desktop\tarefas sorts\insertionsort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1535135715 source:c:\users\pc\desktop\tarefas sorts\shellsort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1535135715 source:c:\users\lucas\desktop\tarefas sorts\bubblesort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1535135715 source:c:\users\lucas\desktop\tarefas sorts\geradordearquivos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1535135715 source:c:\users\lucas\desktop\tarefas sorts\insertionsort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1535155486 source:c:\users\lucas\desktop\tarefas sorts\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1535135715 source:c:\users\lucas\desktop\tarefas sorts\shellsort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1535155603 source:c:\users\lucas\desktop\tarefas sorts\selectionsort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1535135715 source:c:\users\utfpr\desktop\tarefas sorts\bubblesort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1535657520 source:c:\users\utfpr\desktop\tarefas sorts\geradordearquivos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1535135715 source:c:\users\utfpr\desktop\tarefas sorts\insertionsort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1535135715 source:c:\users\utfpr\desktop\tarefas sorts\shellsort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1535742149 source:c:\users\utfpr\desktop\tarefas sorts\mergesort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1535652050 source:c:\users\utfpr\desktop\tarefas sorts\selectionsort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1536257864 source:c:\users\utfpr\desktop\tarefas sorts\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1535135715 source:c:\users\luciano\desktop\tarefas sorts\bubblesort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1535657277 source:c:\users\luciano\desktop\tarefas sorts\geradordearquivos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1535135715 source:c:\users\luciano\desktop\tarefas sorts\insertionsort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1535652050 source:c:\users\luciano\desktop\tarefas sorts\selectionsort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1535135715 source:c:\users\luciano\desktop\tarefas sorts\shellsort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1535657368 source:c:\users\luciano\desktop\tarefas sorts\mergesort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1535657368 source:c:\users\luciano\desktop\tarefas sorts\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1535733704 source:c:\users\utfpr\desktop\tarefas sorts\quicksort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1536258257 source:c:\users\utfpr\desktop\tarefas sorts\heapsort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
+1536252811 source:c:\users\utfpr\desktop\tarefas sorts\radixsort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
+1535135715 source:c:\users\aluno\desktop\tarefas sorts\bubblesort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1535657520 source:c:\users\aluno\desktop\tarefas sorts\geradordearquivos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1536258257 source:c:\users\aluno\desktop\tarefas sorts\heapsort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
+1535135715 source:c:\users\aluno\desktop\tarefas sorts\insertionsort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1535742149 source:c:\users\aluno\desktop\tarefas sorts\mergesort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1535733704 source:c:\users\aluno\desktop\tarefas sorts\quicksort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1536252811 source:c:\users\aluno\desktop\tarefas sorts\radixsort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
+1535652050 source:c:\users\aluno\desktop\tarefas sorts\selectionsort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1535135715 source:c:\users\aluno\desktop\tarefas sorts\shellsort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1536263125 source:c:\users\aluno\desktop\tarefas sorts\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1535135715 source:c:\users\perdonatopdv\desktop\tarefas sorts\bubblesort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1535657520 source:c:\users\perdonatopdv\desktop\tarefas sorts\geradordearquivos.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1536258257 source:c:\users\perdonatopdv\desktop\tarefas sorts\heapsort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
+1535135715 source:c:\users\perdonatopdv\desktop\tarefas sorts\insertionsort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1552861623 source:c:\users\perdonatopdv\desktop\tarefas sorts\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1535742149 source:c:\users\perdonatopdv\desktop\tarefas sorts\mergesort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1535733704 source:c:\users\perdonatopdv\desktop\tarefas sorts\quicksort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1536252811 source:c:\users\perdonatopdv\desktop\tarefas sorts\radixsort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
+1535652050 source:c:\users\perdonatopdv\desktop\tarefas sorts\selectionsort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1535135715 source:c:\users\perdonatopdv\desktop\tarefas sorts\shellsort.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
